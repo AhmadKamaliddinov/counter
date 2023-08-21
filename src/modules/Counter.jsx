@@ -19,7 +19,7 @@ function Counter() {
       <section className="bg-slate-600 h-[100vh]">
         <div className="container flex mx-auto md:w-[1000px] p-20 justify-center">
           <div className="box w-[500px] h-[500px] bg-slate-500 p-10 rounded-xl">
-            <h1 className="bg-white py-5 px-2 text-2xl rounded-xl text-center">
+            <h1 className="bg-white select-none py-5 px-2 text-2xl rounded-xl text-center">
               Counting: {count}
             </h1>
             <div className="bottom">
